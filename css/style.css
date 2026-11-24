@@ -1,14 +1,25 @@
+.fundo {
+    background-color: #f0f2f3;
+    
+}
+
+.logo {
+   color: #f0f2f3;
+
+}
+
+.site {
+background-color:  #102A43;
+padding: 10px;
+
+}
+
+
 .links {
 
 display: flex;
-background-color: #163A5F;
-
-padding: auto;
+background-color:  #102A43;
 font-size: 14px;
-
- 
-
-
-
-
+color: #f0f2f3;
+gap: 24px;
 }
